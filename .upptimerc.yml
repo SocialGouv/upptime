@@ -31,7 +31,7 @@ sites:
   - name: DomiFa
     url: https://domifa.fabrique.social.gouv.fr/
   - name: Standup
-    url: https://standup.fabrique.social.gouv.fr/api/healthz
+    url: https://standup.fabrique.social.gouv.fr/healthz
   - name: Carnets
     url: https://carnets.fabrique.social.gouv.fr/api/healthz
   - name: Archifiltre
